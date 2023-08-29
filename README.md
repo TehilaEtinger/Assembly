@@ -2,6 +2,7 @@
 Final course project (Written in C)-
 I built an assembler for an assembly language.
  I actually converted assembly code to binary presentation 
+ 
 **Input**: file with assembly code
 **Output**: a file with code in machine language - binary. 
 The assembler I programed worked using 2 phases: 
