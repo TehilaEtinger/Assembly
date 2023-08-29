@@ -27,8 +27,11 @@ The way I split the code into files:
 Besides the files Pass 1 and Pass 2 that I already talked about, There are 4 more files:
 
 **Main.c**: get the file with the assembly code, runs the 2 phases, then returns the file with the machine code
+
 **Global.h**: All global variables are defined in it, so that we can use them in all files
+
 **Write.c**: produces the output to the file
+
 **Metpass.c**: handle the label chart
 
 
